@@ -1,5 +1,5 @@
 # Contests-Notification
-<h3>Telegram bit link : http://t.me/contestsNOTIFY_bot</h3>
+<h3>Telegram bot link : http://t.me/contestsNOTIFY_bot</h3>
 Get codechef contests notifications from telegram bot
 
 <h4>Some screenshots</h4>
