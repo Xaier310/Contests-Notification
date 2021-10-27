@@ -1,0 +1,24 @@
+{
+  "name": "contests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "email-validator": "^2.0.4",
+    "email-verifier": "^0.4.1",
+    "express": "^4.17.1",
+    "googleapis": "^88.2.0",
+    "mongoose": "^6.0.11",
+    "nodemailer": "^6.7.0",
+    "puppeteer": "^10.4.0",
+    "tasktimer": "^3.0.0",
+    "telegraf": "^4.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
